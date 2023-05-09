@@ -20,4 +20,35 @@ MVVM is pretty good in such cases. It goes one step further in separating the re
 
 # ScreenShots
 
+![Screenshot_20230510_024145](https://github.com/arsad-ahmed/DigiCard/assets/125079966/28e8a068-9ac3-4792-8592-727379c0e6b6)
+
+
+![Screenshot_20230510_025803](https://github.com/arsad-ahmed/DigiCard/assets/125079966/99d2c35b-55ba-4db6-90cb-a12dedc60dff)
+
+
+![Screenshot_20230510_033129](https://github.com/arsad-ahmed/DigiCard/assets/125079966/30593344-46a5-43d1-8b61-a3a2cfc37d65)
+
+
+![Screenshot_20230510_033134](https://github.com/arsad-ahmed/DigiCard/assets/125079966/8e8c3ea3-cd4c-4bc0-b2a1-e4be4531b46a)
+
+
+![Screenshot_20230510_024145](https://github.com/arsad-ahmed/DigiCard/assets/125079966/7e70a29f-0191-45d7-be79-8f6787e7a4e8)
+
+
+![Screenshot_20230510_025643](https://github.com/arsad-ahmed/DigiCard/assets/125079966/45a9a575-82ec-4fc6-96d8-3d156cb86dfc)
+
+
+![Screenshot_20230510_025717](https://github.com/arsad-ahmed/DigiCard/assets/125079966/eafedcf8-bb32-4f56-bacc-eccfce819c1d)
+
+
+![Screenshot_20230510_033054](https://github.com/arsad-ahmed/DigiCard/assets/125079966/0dc20a7b-015a-4a04-99e2-92d413cb9302)
+
+
+![Screenshot_20230510_033105](https://github.com/arsad-ahmed/DigiCard/assets/125079966/9b36efce-1976-4fe8-8413-687a2f08bad4)
+
+
+![Screenshot_20230510_033113](https://github.com/arsad-ahmed/DigiCard/assets/125079966/116eff11-bc67-4cd4-8cc6-194cff4e59be)
+
+
+![Screenshot_20230510_033124](https://github.com/arsad-ahmed/DigiCard/assets/125079966/ab01609d-326c-4f14-b9cf-bfec62944a5a)
 
